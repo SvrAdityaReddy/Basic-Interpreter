@@ -1,0 +1,28 @@
+1)This is a interpreter similar to python interpreter implemented in java.
+
+2)This interpreter can only perform airthmetic operations as mentioned.(We might develop it more and add new features in the future).
+
+3)To run the interpreter just type the command "ant run" in command prompt.
+
+4)To compile our source code just type the command "ant compile" in command prompt.
+
+5)To create a jar file of the class files created just type the command "ant jar" in command prompt.
+
+6)To clean/remove the class directories created just type the command "ant clean" in the command prompt.
+
+7)All the source codes are present in the "source" directory and inside this directory, all the source codes for exceptions are present in the "Exceptions" directory.
+
+For more information regarding these commands, please refer build.xml file.
+
+For more information regarding ant tool, please refer http://ant.apache.org/manual/index.html
+
+TEAM:
+
+Kb.Shyam(IMT2014050)
+
+T.Armitha(IMT2014060)
+
+P.S.Ramaraju(IMT2014038)
+
+S.V.R.Aditya Reddy(IMT2014047)
+
