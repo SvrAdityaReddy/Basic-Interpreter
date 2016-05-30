@@ -1,14 +1,14 @@
-1)This is a interpreter similar to python interpreter implemented in java.
+1)This is a interpreter in someway similar to python interpreter implemented in java.
 
 2)This interpreter can only perform airthmetic operations as mentioned.(We might develop it more and add new features in the future).
 
-3)To run the interpreter just type the command "ant run" in command prompt.
+3)To run the interpreter type the command "ant run" in command prompt (Should be run under the directory where the build.xml file is saved).
 
-4)To compile our source code just type the command "ant compile" in command prompt.
+4)To compile our source code type the command "ant compile" in command prompt.
 
-5)To create a jar file of the class files created just type the command "ant jar" in command prompt.
+5)To create a jar file of the class files created type the command "ant jar" in command prompt.
 
-6)To clean/remove the class directories created just type the command "ant clean" in the command prompt.
+6)To clean/remove the class directories created type the command "ant clean" in the command prompt.
 
 7)All the source codes are present in the "source" directory and inside this directory, all the source codes for exceptions are present in the "Exceptions" directory.
 
